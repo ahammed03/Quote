@@ -1,41 +1,13 @@
-.main {
-    padding: 3rem;
-}
 
-.quote-box {
-    width: 80%;
-}
-
-.quote {
-    font-size: 1.5rem;
-}
-
-.author {
-    font-size: 1.2rem;
-}
-
-.btn {
-    padding: 0.5rem 1rem;
-    font-size: 1.2rem;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: all 0.3s;
-}
-
-.btn:hover {
-    background-color: #d1d5db;
-}
 *{
     margin: 0px;
     padding: 0px;
 }
 
 body{
-    background:url(background.jpeg) no-repeat center center/cover;
+    background:url(https://i.pinimg.com/236x/96/6d/d0/966dd094f8f12ae1286c75953ae2c964.jpg) no-repeat center center/cover;
     height: 100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    
 }
 
 .main{
